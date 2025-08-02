@@ -1,0 +1,186 @@
+body{
+  background-image: url(https://media.discordapp.net/attachments/1395832870383390743/1397683853321310280/Group_1_edited.jpg?ex=68829e06&is=68814c86&hm=0a8cbc30c80f00a9063fe9626bb01e9b3fd7ab88194dd11967815c651954993d&=&format=webp&width=1303&height=772);
+}
+a{
+  font-size: 23px;
+  color: white;
+  text-decoration: none;
+  text-shadow: black;
+  margin-top: 30px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin: 5px;
+}
+a:hover{
+  color: #0084FF;
+  transition: 0.8s;
+}
+.menu{
+  position: absolute;
+  top: 40px;
+  left: 760px;
+  border-radius: 20px;
+}
+.a_1{
+  background-color: white;
+  color: black;
+  border-radius: 30px;
+}
+.a_1:hover{
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+  border: 2px solid white;
+}
+body{
+  width: 1280px;
+  height: 720px;
+}
+.bmw{
+  position: absolute;
+  top: -27px;
+  left: 335px;
+}
+.colo{
+  border: 6px solid black;
+  background-color: white;
+  width: 2000px;
+  height: 2000px;
+  border-radius: 111111111111px;
+  position: absolute;
+  top: -700px;
+  left: -1370px;
+}
+.h1_1{
+  color: white;
+  background: #0011ff;
+  background: linear-gradient(90deg,rgba(0, 17, 255, 1) 0%, rgba(0, 0, 0, 1)50%, rgba(255, 255, 255, 1) 100%);
+  padding: 15px;
+  border-radius: 40px;
+  position: absolute;
+  top: 700px;
+  left: 1380px;
+}
+.h1_1:hover{
+  font-size: 35px;
+  transition: 0.4s;
+  color: #0084FF;
+  border: 6px solid black;
+}
+.img_h1{
+  position: absolute;
+  top: 712px;
+  left: 1570px;
+}
+ul{
+  position: absolute;
+  top: 1210px;
+  left: 1460px;
+  font-size: 20px;
+  background-color: #2600FF;
+  color: white;
+  padding: 25px;
+  padding-left: 40px;
+  border-radius: 30px;
+  border: 6px solid black;
+}
+.img_ul{
+  position: absolute;
+  top: 1310px;
+  left: 1760px;
+}
+.img_1{
+  position: absolute;
+  top: 1100px;
+  left: 1520px;
+  border-radius: 20px;
+  border: 3px solid black;
+  opacity: 0.5;
+}
+.img_2{
+  position: absolute;
+  top: 1000px;
+  left: 1720px;
+  border-radius: 20px;
+  border: 3px solid black;
+  opacity: 0.5;
+}
+.img_3{
+  position: absolute;
+  top: 980px;
+  left: 1400px;
+  border-radius: 20px;
+  border: 3px solid black;
+  opacity: 0.5;
+}
+.img_4{
+  position: absolute;
+  top: 830px;
+  left: 1450px;
+  border-radius: 20px;
+  border: 3px solid black;
+  opacity: 0.5;
+}.img_5{
+  position: absolute;
+  top: 780px;
+  left: 1720px;
+  border-radius: 20px;
+  border: 3px solid black;
+  opacity: 0.5;
+}
+.img_1:hover{
+  opacity: 1;
+  transition: 0.5s;
+  box-shadow: 4px 2px 4px 4px #D9D9D9;
+}
+.img_2:hover{
+  opacity: 1;
+  transition: 0.5s;
+  box-shadow: 4px 2px 4px 4px #D9D9D9;
+}
+.img_3:hover{
+  opacity: 1;
+  transition: 0.5s;
+  box-shadow: 4px 2px 4px 4px #D9D9D9;
+}
+.img_4:hover{
+  opacity: 1;
+  transition: 0.5s;
+  box-shadow: 4px 2px 4px 4px #D9D9D9;
+}
+.img_5:hover{
+  opacity: 1;
+  transition: 0.5s;
+  box-shadow: 4px 2px 4px 4px #D9D9D9;
+}
+.menu{
+  position: absolute;
+  top: 40px;
+  left: 760px;
+  border-radius: 20px;
+}
+.menu{
+  position: absolute;
+  top: 40px;
+  left: 760px;
+  border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
